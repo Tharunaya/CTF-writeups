@@ -10,6 +10,8 @@ My initial guess was it being binary with the FWD: as a 0 or 1 and the RE: as a 
 "FWD:"  => "."
 "RE:"   => "-"
 ```
+## Quick Note: If you are not a donkey like me, you probably noticed that there were in fact double spaces in the header, meaning you could just decode it. If you are interested in reading how to decode morse without spaces, you can read on. Otherwise, just skip ahead to the flag.
+
 The resulting morse code was: “..-..-...---.{....--.---..........--.-.----.-..}”
 The difficulty here was that no spaces were in between the morse code letters, meaning that there were a ton of possible solutions (like 1628277960) for the text between the curly brackets due to the ambiguity (e.g. "..." can mean eee, ie, ei or s).
 
