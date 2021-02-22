@@ -11,4 +11,5 @@
 
 # Stego
 ![easy_stego](Stego/easy_stego.md)
+
 ![secret_images](Stego/secret_images.md)
