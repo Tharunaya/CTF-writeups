@@ -1,15 +1,15 @@
 # TenableCTF
 
 # Misc
-[esoteric](Misc/esoteric.md)
+[Esoteric - 25 Points](Misc/esoteric.md)
 
-[one byte at a time](Misc/onebyteatatime.md)
+[One Byte at a Time - 50 Points](Misc/onebyteatatime.md)
 
-[forwards_from_grandma](Misc/forwards_from_grandma.md)
+[Forwards from Grandma - 100 Points](Misc/forwards_from_grandma.md)
 
-[Broken QR](Misc/BrokenQR.md)
+[Broken QR - 100 Points](Misc/BrokenQR.md)
 
 # Stego
-[easy_stego](Stego/easy_stego.md)
+[Easy Stego - 25 Points](Stego/easy_stego.md)
 
-[secret_images](Stego/secret_images.md)
+[Secret Images - 125 Points](Stego/secret_images.md)
